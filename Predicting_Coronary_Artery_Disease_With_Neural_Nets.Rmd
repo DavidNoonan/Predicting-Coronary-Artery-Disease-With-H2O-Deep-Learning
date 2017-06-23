@@ -1,5 +1,5 @@
 ---
-title: "Predicting Coronary Artery Disease with Neural Networks using H2O"
+title: "Predicting Coronary Artery Disease with Neural Networks using H2O Deep Learning"
 subtitle: David Noonan
 output:
   pdf_document: default
